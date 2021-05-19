@@ -1,5 +1,5 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
+  "name": "@ckeditor/ckeditor5-build-4rent",
   "version": "27.1.0",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
@@ -30,7 +30,6 @@
     "@ckeditor/ckeditor5-editor-classic": "^27.1.0",
     "@ckeditor/ckeditor5-heading": "^27.1.0",
     "@ckeditor/ckeditor5-indent": "^27.1.0",
-    "@ckeditor/ckeditor5-link": "^27.1.0",
     "@ckeditor/ckeditor5-list": "^27.1.0",
     "@ckeditor/ckeditor5-paragraph": "^27.1.0",
     "@ckeditor/ckeditor5-table": "^27.1.0",
